@@ -1,0 +1,4 @@
+Para que las fotos funcionen en Vercel:
+- index.html y las imágenes 01.jpg a 07.jpg están todos en la misma carpeta.
+- Subí todos estos archivos al mismo directorio raíz del proyecto.
+- Si Vercel está conectado a GitHub, hacé commit/push y esperá el nuevo deploy.
